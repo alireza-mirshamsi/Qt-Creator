@@ -1,1 +1,1 @@
-prin("sds")
+print("sds")
